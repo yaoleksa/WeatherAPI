@@ -1,0 +1,6 @@
+API supports only POST HTTP method
+Required parameters:
+1. access_key
+2. city
+3. country
+4. hourly
